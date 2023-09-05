@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Clasic White",
+        "author": "Autor",
+        "price": 120000,
+        "img": "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "quanty": 1,
+        "categoria": "Tennis"
+    },
+    {
+        "id": 2,
+        "name": "Pants",
+        "author": "Autor",
+        "price": 87500,
+        "img": "https://images.pexels.com/photos/4458521/pexels-photo-4458521.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "quanty": 1,
+        "categoria": "Pantalones"
+    },
+    {
+        "id": 3,
+        "name": "Gray Shirt",
+        "author": "Autor",
+        "price": 87500,
+        "img": "https://images.pexels.com/photos/13094146/pexels-photo-13094146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "quanty": 1,
+        "categoria": "Camisetas"
+    },
+    {
+        "id": 4,
+        "name": "Nike Orange",
+        "author": "Nike",
+        "price": 87500,
+        "img": "https://images.pexels.com/photos/12010216/pexels-photo-12010216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "quanty": 1,
+        "categoria": "Tennis"
+    }
+
+]
