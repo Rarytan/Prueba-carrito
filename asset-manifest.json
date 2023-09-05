@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prueba-carrito/static/css/main.8f634a07.css",
+    "main.js": "/Prueba-carrito/static/js/main.d5017e39.js",
+    "static/js/787.46493d11.chunk.js": "/Prueba-carrito/static/js/787.46493d11.chunk.js",
+    "index.html": "/Prueba-carrito/index.html",
+    "main.8f634a07.css.map": "/Prueba-carrito/static/css/main.8f634a07.css.map",
+    "main.d5017e39.js.map": "/Prueba-carrito/static/js/main.d5017e39.js.map",
+    "787.46493d11.chunk.js.map": "/Prueba-carrito/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f634a07.css",
+    "static/js/main.d5017e39.js"
+  ]
+}
