@@ -4,6 +4,7 @@ import axios from "axios";
 import "./Products.css";
 
 const Products = () => {
+  
   const [data, setData] = useState([]);
   const { buyProducts } = useContext(dataContext);
   const [categoriaSeleccionada, setCategoriaSeleccionada] = useState("Todos");
@@ -20,8 +21,6 @@ const Products = () => {
 
       });
   }, []);
-
-
 
   const handleBuyClick = (product) => {
     buyProducts(product);
