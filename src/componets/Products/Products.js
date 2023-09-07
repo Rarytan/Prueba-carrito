@@ -58,7 +58,7 @@ const Products = () => {
           <div className="card" key={product.id}>
 
             <img src={product.image} alt="img-product-card" />
-            
+
             <h3>{product.title}</h3>
             <h4>{product.category}</h4>
             <h6>{product.description}</h6>
@@ -68,6 +68,7 @@ const Products = () => {
 
           </div>
         ))}
+        
       </div>
 
       {showMessage && <div className="agregado"><h1>Producto agregado al carrito</h1></div>}
