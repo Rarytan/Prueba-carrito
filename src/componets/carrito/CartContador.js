@@ -9,11 +9,11 @@ const CartItemCounter = ({ product }) => {
     };
     return (
         <>
+        
         <p>{product.quanty}</p>
         <p class="contador-button" onClick={()=> buyProducts(product)}>+</p>
-        <p class="contador-button" onClick={decrece}>-</p>
-        
-        
+        <p class="contador-button" onClick={decrece}>-</p>       
+
         </>
     );
 };
