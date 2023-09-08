@@ -13,6 +13,7 @@ const Products = () => {
 
   useEffect(() => {
     axios("https://fakestoreapi.com/products")
+    
       .then((res) => {
         setData(res.data);
 
